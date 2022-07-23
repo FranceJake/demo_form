@@ -1,0 +1,17 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+
+form {
+    width: 100vh;
+
+}
+
+.box-1 {
+    border-radius: 0;
+
+}
+
+.box-2 {
+    border-radius: 0;
+    height: 20rem;
+}
